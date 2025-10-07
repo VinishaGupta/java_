@@ -1,10 +1,8 @@
-package project;
-
-import sorting.SelectionSort;
+package informationSecurity;
 
 import java.util.Scanner;
 
-public class encrypt {
+public class cipher {
     public static void main(String[] args) {
 
         Scanner in=new Scanner(System.in);
